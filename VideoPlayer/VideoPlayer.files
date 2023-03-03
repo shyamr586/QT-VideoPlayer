@@ -1,0 +1,7 @@
+CMakeLists.txt
+VideoPlayer.cflags
+VideoPlayer.cxxflags
+VideoPlayer.pyproject
+main.cpp
+main.py
+main.qml
